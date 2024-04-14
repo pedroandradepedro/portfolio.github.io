@@ -31,6 +31,11 @@
   color: #fff;
 }
 
+.rodape-lista li a:hover {
+  color: #b6f829;
+  transition: 0.2s;
+}
+
 .rodape-copy {
   color: #8f8f8f;
   font-size: 1.125rem;
