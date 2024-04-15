@@ -68,3 +68,37 @@
   border: 2px solid #e0e0e0;
   transition: 0.5s;
 }
+
+@media (max-width: 800px) {
+  .projetos-container {
+    grid-template-columns: 1fr;
+    padding: 60px 20px;
+    gap: 40px;
+  }
+
+  .projeto {
+    flex-wrap: wrap;
+  }
+
+  .projeto li {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .projetos .subtitulo {
+    font-size: 3rem;
+    color: #000;
+  }
+  .projetos-texto {
+    font-size: 1.25rem;
+  }
+
+  .formacao-extra h3::before {
+    position: initial;
+    margin-bottom: 10px;
+  }
+
+  .projetos-container::after {
+    display: none;
+  }
+}
