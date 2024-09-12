@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Portfolio é o primeiro projeto desenvolvido no curso de HTML e CSS para Iniciantes da Origamid, utilizando os princípios básicos de HTML e CSS, assim como Flexbox e Grid Layout. Algumas mudanças foram feitas no projeto original, com base em minhas próprias informações.
 
-- [Acesse o projeto finalizado, online](https://github.com/pedroandradepedro/portfolio.github.io)
+- [Acesse o projeto finalizado, online](https://curriculo-pessoal.vercel.app/)
 
 ## 🔖 Layout
 
