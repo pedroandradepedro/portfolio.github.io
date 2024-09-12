@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="Porfolio Pessoal" src="./img/Mockup-Notebook - Portfolio.jpgg" width="100%">
+  <img alt="Porfolio Pessoal" src="./img/Mockup-Notebook - Portfolio.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
