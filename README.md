@@ -27,4 +27,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ---
 
-Feito com ♥ by Pedro Andrade with Rocketseat
+Feito com ♥ by Pedro Andrade with Origamid
